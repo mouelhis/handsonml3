@@ -1,4 +1,4 @@
-# Comments on "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, Third Edition" by Aurélien Géron
+# Deep reading/testing comments on "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, Third Edition" by Aurélien Géron
 
 Current progress:
 * Chapter 1. The Machine Learning Landscape
